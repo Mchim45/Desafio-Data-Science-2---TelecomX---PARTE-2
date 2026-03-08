@@ -1,2 +1,22 @@
-# Desafio-Data-Science-2---TelecomX---PARTE-2
-O desafio Telecom X - Parte 2 é uma análise exploratória e visual a cerca do problema da evasão de clientes. Com ele foi possível observar como o comportamento pode ter elementos que nos permitem estimar quando é mais provável a ocorrência de uma determinada ação conforme modelos preditivos de inteligência artificial.
+# 📡 Telecom X - Análise Preditiva de Churn (Evasão de Clientes)
+
+Este projeto utiliza **Machine Learning** para identificar padrões de evasão de clientes (Churn) na base de dados da **Telecom X**, propondo estratégias de retenção baseadas em dados reais.
+
+## 🚀 Objetivo
+Prever quais clientes têm maior probabilidade de cancelar os serviços e entender os fatores críticos (como tipo de contrato, tecnologia de internet e encargos financeiros) que motivam essa decisão.
+
+## 📊 Principais Insights
+* **Contratos Mensais:** Representam o maior risco de evasão imediata.
+* **Fibra Óptica:** Segmento com churn elevado, sugerindo necessidade de revisão em suporte ou precificação.
+* **Serviços de Valor Agregado:** A ausência de suporte técnico e segurança online está diretamente ligada à saída do cliente.
+
+## 🛠️ Tecnologias Utilizadas
+* **Python** (Pandas, Scikit-learn, Matplotlib/Seaborn)
+* **Modelos:** Random Forest e Regressão Logística.
+* **Ambiente:** Jupyter Notebook.
+
+## 📈 Resultados
+O modelo de **Random Forest** alcançou uma acurácia de aproximadamente **80%**, sendo a ferramenta principal da **Telecom X** para ações proativas de fidelização.
+
+---
+Projetado por **Maria Cecília**.
