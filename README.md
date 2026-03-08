@@ -1,4 +1,4 @@
-# 📡 Telecom X - Análise Preditiva de Churn (Evasão de Clientes)
+# 📡 Telecom X - Análise Preditiva de Churn (Evasão de Clientes) PARTE 2
 
 Este projeto utiliza **Machine Learning** para identificar padrões de evasão de clientes (Churn) na base de dados da **Telecom X**, propondo estratégias de retenção baseadas em dados reais.
 
